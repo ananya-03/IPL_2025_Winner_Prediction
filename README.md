@@ -67,15 +67,17 @@ This project is an end-to-end pipeline that forecasts IPL match outcomes using h
 
 ## 🙋‍♀️ About Me
 
-Hi! I'm **Ananya**, a data science enthusiast exploring the intersection of sports, machine learning, and storytelling. If this project interests you, feel free to [connect](https://www.linkedin.com/in/ananya-singh/) or shoot me a message!
+Hi! I'm **Ananya**, a data science enthusiast exploring the intersection of sports, machine learning, and storytelling. If this project interests you, feel free to [connect](https://www.linkedin.com/in/ananya-singh-7b55a51ab/) or shoot me a message!
 
 ---
 
 ## 📬 Contact
 
-🌐 Website: [AnanyaSinghPersonalPortfolio.com] (https://ananya-03.github.io/PersonalPortfolio/)
-🔗 LinkedIn: [Ananya Singh](https://www.linkedin.com/in/ananya-singh-7b55a51ab/)  
-🐍 GitHub: [@ananya-03](https://github.com/ananya-03)
+- 🌐 Website: [AnanyaSingh/PersonalPortfolio.com](https://ananya-03.github.io/PersonalPortfolio/)
+
+- 🔗 LinkedIn: [Ananya Singh](https://www.linkedin.com/in/ananya-singh-7b55a51ab/)  
+
+- 🐍 GitHub: [@ananya-03](https://github.com/ananya-03)
 
 
 ---
